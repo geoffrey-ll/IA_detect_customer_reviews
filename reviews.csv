@@ -1,0 +1,11 @@
+review,sentiment
+"J'adore ce produit, il est vraiment super !",positive
+"Très déçu, il est arrivé cassé.",negative
+"Livraison rapide, produit conforme.",positive
+"Bof, je ne m'attendais pas à ça.",neutral
+"Excellent rapport qualité prix, je recommande.",positive
+"Service client injoignable, c’est inadmissible.",negative
+"Le produit est correct mais sans plus.",neutral
+"Tout est parfait, merci !",positive
+"Je n'ai pas aimé, trop fragile.",negative
+"Ça fait le job.",neutral
